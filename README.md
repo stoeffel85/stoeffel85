@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am a chemist & University teacher working on Enzymes and Light (Photobiocatalysis). 
+I like to code and try to motivate my students to experiment with it. 
+This led to the development of online tools that are handy for some of our research problems and to the development of a Raspberry Pi based photoreactor that we use routinely to perform our experiments. Check out the repositories!
 
 <!--
 **stoeffel85/stoeffel85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
